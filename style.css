@@ -42,3 +42,11 @@
 .feat-collection-row:nth-child(odd) {
   background: #c9c9c0;
 }
+a.btn.btn-x2.btn-white.btn-border {
+  text-decoration: none;
+  border: 1px solid white;
+  width: 6rem;
+  padding: 1rem;
+  background: black;
+  color: white;
+}
